@@ -45,7 +45,16 @@ export default{
 </script>
 
 <style lang="scss" rel="stylesheet">
-@import "./css/basic.css";
+@import "./assets/css/basic.css";
+.bk{
+  background:url('./assets/images/bg.jpg') 100% 100%;
+  width: 100%;
+  height:100%;
+  position:fixed;
+  z-index: -1;
+  left: 0;
+  top: 0;
+}
 .main{
   margin-top:70px;
   position:relative;

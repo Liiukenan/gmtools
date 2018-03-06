@@ -158,7 +158,7 @@
 </script>
 
 <style rel="stylesheet" lang="scss">
-	@import "../css/main.scss";
+	@import "../assets/css/main.scss";
 	.box{
 		.account-main{
 			.playerInfo{
